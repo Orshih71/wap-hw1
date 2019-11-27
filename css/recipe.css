@@ -38,8 +38,8 @@ a {
 .quotation {
     font-style: italic;
     background-color: #FFFFA8;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 
 ul li {
