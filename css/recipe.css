@@ -32,7 +32,7 @@ a {
 
 .copyright {
     font-family: monospace;
-    text-align: justify;
+    text-align: right;
 }
 
 .quotation {
@@ -43,9 +43,15 @@ a {
 ul li {
     list-style-image: url("../images/pie_bullet.png");
 }
-.right{
+
+.justify {
+    text-align: justify;
+}
+
+.right {
     text-align: right;
 }
+
 .bold {
     font-weight: bold;
 }

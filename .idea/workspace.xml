@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="689c8ae5-61a4-4d5b-97f6-d3d2bfafee60" name="Default Changelist" comment="" />
+    <list default="true" id="689c8ae5-61a4-4d5b-97f6-d3d2bfafee60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/recipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/recipe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pie.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UBfDJmnfeGQmVQukfkPRFaGJTh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -30,7 +37,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="pie.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/hw1/pie.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/wap-hw1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -57,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574835516605</updated>
       <workItem from="1574835517971" duration="4521000" />
+      <workItem from="1574873357715" duration="1073000" />
     </task>
     <servers />
   </component>
@@ -64,17 +72,19 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1574839138590">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="137" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1574874221992">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="137" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1574874221992" />
     <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1574839138590" />
     <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1574840066944">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1574840066944" />
-    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1574840133822">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="463" y="131" key="FileChooserDialogImpl" timestamp="1574874220849">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="463" y="131" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1574874220849" />
     <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1574840133822" />
     <state x="354" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1574839768378">
       <screen x="0" y="0" width="1366" height="768" />
