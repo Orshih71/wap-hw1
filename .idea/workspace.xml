@@ -62,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574835516605</updated>
       <workItem from="1574835517971" duration="4521000" />
-      <workItem from="1574873357715" duration="2680000" />
+      <workItem from="1574873357715" duration="3647000" />
     </task>
     <task id="LOCAL-00001" summary="fix index.html">
       <created>1574874449658</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574875036333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix validation">
+      <created>1574877646116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574877646116</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix index.html" />
     <MESSAGE value="fix style" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix style" />
+    <MESSAGE value="fix validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix validation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1574874221992">
@@ -102,20 +110,20 @@
     </state>
     <state x="137" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1574874221992" />
     <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1574839138590" />
-    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1574875034370">
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1574877644032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1574875034370" />
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1574877644032" />
     <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1574840066944" />
     <state x="463" y="131" key="FileChooserDialogImpl" timestamp="1574874220849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="131" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1574874220849" />
     <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1574840133822" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1574875037122">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1574877646816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1574875037122" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1574877646816" />
     <state x="354" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1574839768378">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
